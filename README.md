@@ -138,6 +138,7 @@ Combina todos os conceitos:
 6. Regressa à branch criada e faz o rebase sobre a *main*.
 7. Envia a branch rebaseada para o teu remoto pessoal, regressa à *main*, faz o *merge* final e sincroniza a *main* com o remoto pessoal.
 8. Confirma no GitHub que a nova imagem está armazenada com Git LFS.
+9. ok
 
 ---
 
