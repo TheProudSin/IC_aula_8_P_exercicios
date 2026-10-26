@@ -1,14 +1,15 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- Nome: **Rodrigo Santos**  
+- Número: **a22606401** 
+- Turma: **1.1 turno 2**  
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+Adicionei os meus dados de aluno.
+
 
 ---
 
