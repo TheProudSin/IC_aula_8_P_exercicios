@@ -139,7 +139,7 @@ Combina todos os conceitos:
 7. Envia a branch rebaseada para o teu remoto pessoal, regressa à *main*, faz o *merge* final e sincroniza a *main* com o remoto pessoal.
 8. Confirma no GitHub que a nova imagem está armazenada com Git LFS.
 9. ok
-10. okay.
+10. okay
 ---
 
 ### 💡 Sugestões
