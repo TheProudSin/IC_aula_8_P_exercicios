@@ -15,4 +15,4 @@ Adicionei os meus dados de aluno.
 
 ## Observações (opcional)
 
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
+Watching tulsa king.
