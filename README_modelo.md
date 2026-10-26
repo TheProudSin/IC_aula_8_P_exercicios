@@ -15,4 +15,4 @@ Adicionei os meus dados de aluno.
 
 ## Observações (opcional)
 
-Watching tulsa king.
+Watching tusla king.
